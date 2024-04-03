@@ -1,1 +1,3 @@
-# si_trabalho_1
+# Sistemas Inteligentes
+
+## Trabalho 1: Implementação do Problema do Caixeiro Viajante usando a técnica de têmpera simulada e algoritmo genético
